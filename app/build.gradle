@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'tweakup.ru.implicitintent'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "tweakup.ru.implicitintent"
